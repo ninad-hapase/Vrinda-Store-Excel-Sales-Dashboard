@@ -1,4 +1,4 @@
-# Excel Sales Dashboard – Data Analytics Project
+# Vrinda Store Annual Sales Excel Dashboard 
 
 ## 📌 Project Overview
 
