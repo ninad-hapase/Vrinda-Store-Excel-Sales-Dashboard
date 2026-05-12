@@ -44,11 +44,7 @@ The dashboard includes the following KPIs:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
-
-```md
-![Dashboard Screenshot](images/dashboard.png)
-```
+![alt image](https://github.com/ninad-hapase/Vrinda-Store-Excel-Sales-Dashboard/blob/bae56c40440748b19f50db2324d46a3453a1425e/dashboard.png)
 
 
 
